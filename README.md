@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KashviChuchra
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C++ and expanding my skills
+- 🌱 I’m currently learning DSA in JAVA and expanding my skills
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I think I can keep a solid GitHub streak going!🏆
 
